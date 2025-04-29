@@ -2,8 +2,7 @@
 
 I am a Computer Science Ph.D. student at UCLA. I am fortunate to be co-advised by Prof. Nanyun Peng and Prof. Kai-Wei Chang, focusing on problems in Multimodality (Vision + Language) and Embodied Learning.
 
-
-[My Homepage]<https://yu-bryan-zhou.github.io/>
+[My Homepage](https://yu-bryan-zhou.github.io/)
 <!--
 **bryanzhou008/bryanzhou008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
