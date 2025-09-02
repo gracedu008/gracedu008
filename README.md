@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a Computer Science Ph.D. student at UCLA, co-advised by Nanyun Peng and Kai-Wei Chang. I work on Multimodality (Vision + Language) and Embodied Learning. I'm also a research scientist intern at Meta FAIR Perception. Prior to my PhD, I was a visiting researcher at Stanford SVL, working with Jiajun Wu and Fei-Fei Li.
+I am a bioinformatics associate at Zymo Research, where I develop AI applications for oncology research and engineer databases and pipelines for Next Generation Sequencing data. I hold a Master's degree in Computational Biology from Carnegie Mellon University's School of Computer Science, where I was advised by Dr. Martin Zhang. Prior to Zymo Research, I was a computational biologist intern at Foundation Medicine, working on minimum residual disease monitoring in cell-free DNA. My expertise spans statistical genomics, machine learning, and bioinformatics pipeline development for genomic datasets.
 
 [My Homepage](https://yu-bryan-zhou.github.io/)
 <!--
